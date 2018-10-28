@@ -22,8 +22,7 @@
 			</div>
 			
 				{!! Form::submit('更新', ['class' => 'btn btn-default']) !!}
-		
-		{!! Form::close() !!}
+				{!! Form::close() !!}
 	</div>
 </div>
 
